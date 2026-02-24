@@ -1,5 +1,3 @@
-# chatbot
-
 # 🚀 IT Skill Navigator – AI Career Guidance Assistant
 
 IT Skill Navigator is an AI-powered conversational assistant designed to help users identify **in-demand IT skills**, explore **career paths**, and understand the **latest technology trends**.
